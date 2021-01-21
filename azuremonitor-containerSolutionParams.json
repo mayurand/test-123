@@ -1,0 +1,12 @@
+{
+  "$ schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "workspaceResourceId": {
+      "value": "/subscriptions/5444e9ea-0e66-47df-9ff5-58e9dc56624a/resourceGroups/Team6-Central/providers/Microsoft.OperationalInsights/workspaces/team6loganalytics"
+    },
+    "workspaceRegion": {
+      "value": "NorthEurope"
+    }
+  }
+}
